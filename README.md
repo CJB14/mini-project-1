@@ -1,17 +1,14 @@
-Project-1
+Horiseon
 
-## Description
+# Description
+Homework 1
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+# User story
+Modified the HTML file to make it more human readable.
+Ordered classes and Id’s to avoid redundancies and make them easy to identify on the CSS file.
+Regroup classes with the same property to have less selectors on the CSS file.
+Fixed the header links to redirect you to the correct part of the site.
+I left the code as clean as I could.
 
-- I uploaded a webpage from vs code to github.
-- I added an image file and index.html link. 
-- I also used style.css 
-- I learned how to clone add commit push files to github. 
-
-## Table of Contents (Optional)
-
-readme
-index.html
-images
-style.css
+# Repository Link
+https://cjb14.github.io/mini-project-1/
